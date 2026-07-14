@@ -1,3 +1,7 @@
+/*
+ * Версия 2.0: Добавлена основная функция hex_dump
+ * Реализована логика чтения файла и вывода дампа
+ */
 #include "hex_dumper.h"
 #include <stdlib.h>
 #include <string.h>
